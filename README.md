@@ -1,18 +1,3 @@
-### Hi there, I'm Suryabrata 👋
-
-
-**surya810/surya810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently Studying at pondicherry university
-- 🌱 I’m currently learning- React Native, Django
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: He / Surya
-- ⚡ Fun fact: ... I am Mad without madness !!
-
 <h1 align="center">Hi 👋, I'm Suryabrata Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -31,12 +16,12 @@
 
 **About Me**
 
-- 🔭 I’m currently Studying at pondicherry university
-- 🌱 I’m currently learning- React Native, Django
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently Studying at Pondicherry University
+- 🌱 I’m currently learning- Python, Django.
+- 👯 I’m looking to collaborate on: 
+- 🤔 I’m looking for help with: Deep Learning.
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...
+- 📫 How to reach me: suryabratadas27@gmail.com
 - 😄 Pronouns: He / Surya
 - ⚡ Fun fact: ... I am Mad without madness !!
 
